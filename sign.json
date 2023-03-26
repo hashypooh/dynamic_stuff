@@ -1,1 +1,42 @@
-{"static_param":"8z01olHSNG2OBk3OtfN5iSqxgFhvi2tu","sign_format":"7603:{0}:{1}:641dd7aa","checksum_indexes":[31,0,35,12,36,18,26,6,28,31,8,26,26,18,36,6,13,20,10,19,19,0,19,17,20,3,0,33,29,7,0,22],"checksum_constants":[181],"app_token":"33d57ade8c02dbc5a333db99ff9ae26a"}
+{
+    "static_param": "8z01olHSNG2OBk3OtfN5iSqxgFhvi2tu",
+    "sign_format": "7603:{0}:{1}:641dd7aa",
+    "checksum_indexes": [
+        31,
+        0,
+        35,
+        12,
+        36,
+        18,
+        26,
+        6,
+        28,
+        31,
+        8,
+        26,
+        26,
+        18,
+        36,
+        6,
+        13,
+        20,
+        10,
+        19,
+        19,
+        0,
+        19,
+        17,
+        20,
+        3,
+        0,
+        33,
+        29,
+        7,
+        0,
+        22
+    ],
+    "checksum_constants": [
+        181
+    ],
+    "app_token": "33d57ade8c02dbc5a333db99ff9ae26a"
+}
